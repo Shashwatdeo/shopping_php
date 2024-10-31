@@ -23,4 +23,4 @@ Password : 123456789
 
 *************For Admin ******************
 User Name : admin
-Password : Test@123
+Password : 123456789
